@@ -23,9 +23,9 @@ function App() {
   return (
     <div className='App'>
      <div className='freecodecamp-logo-contenedor'>
-      <img className='freecodecamp-log'
-      src={Arbi}
-      alt='Logo de freeCodeCamp'/>
+       <img className='freecodecamp-logo'
+       src={Arbi}
+       alt='Logo de freeCodeCamp'/>
      </div>
      <div className='contenedor-principal'>
         <Contador 
